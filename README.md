@@ -1,6 +1,5 @@
 **Lump Stich**
-
-[----Description----]
+[/b]Description----]
 
 This is a program that repairs and builds a new .bsp file, that is decompileable and useable, from it's lump file (.lmp). In a basic explanation, it reads the header of the .bsp, stores its file offset, file length and insert, along with cleaning up, the entity data contained in the .lmp file.
 
