@@ -1,3 +1,5 @@
+##MAJOR UPDATE HAS BEEN RELEASED! INCLUDES GUI.##
+
 ## Lump Stich
 ### Description
 
