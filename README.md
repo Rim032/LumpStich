@@ -1,7 +1,11 @@
 ## Lump Stich
 ### Description
 
-In the Garry's Mod Workshop, maps are often given anti-decompile protection to prevent players from decompiling, studying and sometimes even playing those maps. This program aims to remove such protection and restore a map to it's original state! How is this done? A protected .bsp file and it's acompanying .lmp file (a file containing a portion of entity information) are carefully stiched together to reform an unobstructed .bsp file. This ubobstrcuted .bsp can then easily be decompiled and played while the protected .bsp cannot be decompiled, lacks entities and may even crash your game!
+In the Garry's Mod Workshop, maps are often given anti-decompile protection to prevent players from decompiling, studying and sometimes even playing those maps. This program aims to remove such protection and restore a map to it's original state!
+
+### How is this done?
+
+A protected .bsp file and it's acompanying .lmp file (a file containing a portion of entity information) are carefully stiched together to reform an unobstructed .bsp file. This ubobstrcuted .bsp can then easily be decompiled and played while the protected .bsp cannot be decompiled, lacks entities and may even crash your game!
 
 ### Reason
 
