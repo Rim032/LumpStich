@@ -14,7 +14,7 @@ I want to allow people to decompile maps for reverse engineering and learning pu
 ### Misc.
 
 Note: If there are any bugs/issue please let me know.
-Only GMOD and HL2 maps have been tested. A warning will be given if using a BSP version other than 20. <br />
+Only GMOD and HL2 maps have been tested. A warning will be given if using a BSP version other than 20. $~~~~~~~~~~~$
 
 
 ![image](https://github.com/Rim032/lump_stich/assets/45215785/0bbeba9d-3337-45b8-abdf-81f4c4e0c07f)
@@ -25,7 +25,7 @@ Only GMOD and HL2 maps have been tested. A warning will be given if using a BSP 
 #### Files before stich. An unuseable .bsp and seemingly redundant .lmp
 ![image](https://github.com/Rim032/lump_stich/assets/45215785/d07230b5-c635-4728-a554-e4d0da45d847)
 
-#### Files after stich. A new unprotected and working .bsp is generated  <br />
+#### Files after stich. A new unprotected and working .bsp is generated
 
 
 
