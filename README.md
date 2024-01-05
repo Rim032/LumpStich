@@ -14,9 +14,11 @@ I want to allow people to decompile maps for reverse engineering and learning pu
 ### Misc.
 
 Note: If there are any bugs/issue please let me know.
-Only GMOD and HL2 maps have been tested. A warning will be given if using a BSP version other than 20. $~~~~~~~~~~~$
+Only GMOD and HL2 maps have been tested. A warning will be given if using a BSP version other than 20.
 
 
+
+### Images
 ![image](https://github.com/Rim032/lump_stich/assets/45215785/0bbeba9d-3337-45b8-abdf-81f4c4e0c07f)
 
 #### Main GUI of Program; stiching an example gm_flatgrass .bsp
