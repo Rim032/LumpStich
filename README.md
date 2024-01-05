@@ -15,6 +15,7 @@ I want to allow people to decompile maps for reverse engineering and learning pu
 
 Note: If there are any bugs/issue please let me know.
 Only GMOD and HL2 maps have been tested. A warning will be given if using a BSP version other than 20.
+This program works best against i-am-scott's [BSPLumpManager]([https://pages.github.com/](https://github.com/i-am-scott/BSPLumpManager)).
 
 
 
