@@ -20,13 +20,12 @@ Only GMOD and HL2 maps have been tested. A warning will be given if using a BSP 
 
 ### Images
 ![image](https://github.com/Rim032/lump_stich/assets/45215785/0bbeba9d-3337-45b8-abdf-81f4c4e0c07f)
-
 #### Main GUI of Program; stiching an example gm_flatgrass .bsp
+
 ![image](https://github.com/Rim032/lump_stich/assets/45215785/a2196fb2-386c-49af-bd54-10cebf894afa)
-
 #### Files before stich. An unuseable .bsp and seemingly redundant .lmp
-![image](https://github.com/Rim032/lump_stich/assets/45215785/d07230b5-c635-4728-a554-e4d0da45d847)
 
+![image](https://github.com/Rim032/lump_stich/assets/45215785/d07230b5-c635-4728-a554-e4d0da45d847)
 #### Files after stich. A new unprotected and working .bsp is generated
 
 
