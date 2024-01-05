@@ -27,6 +27,9 @@ Only GMOD and HL2 maps have been tested. A warning will be given if using a BSP 
 
 #### Files after stich. A new unprotected and working .bsp is generated
 
+
+
+
 ### Build History
 v1.00 - January 11th 2023 - Initial Release
 v1.01 - January 17th 2023 - Small Bug Fixes
