@@ -1,18 +1,18 @@
-## (10/6/23) MAJOR UPDATE HAS BEEN RELEASED! INCLUDES GUI.
-
 ## Lump Stich
 ### Description
 
-A new .BSP file is stiched together from a protected .BSP file and it's .LMP file. This new .BSP file can be played in-game and decompiled unlike the protected .BSP file which lacked entities and couldn't be decompiled.
+In the Garry's Mod Workshop, maps are often given anti-decompile protection to prevent players from decompiling, studying and sometimes even playing those maps. This program aims to remove such protection and restore a map to it's original state! How is this done? A protected .bsp file and it's acompanying .lmp file (a file containing a portion of entity information) are carefully stiched together to reform an unobstructed .bsp file. This ubobstrcuted .bsp can then easily be decompiled and played while the protected .bsp cannot be decompiled, lacks entities and may even crash your game!
 
 ### Reason
 
-I want to allow people to decompile maps for reverse engineering and learning. This allowed me to further explore the structure and overall inner-workings of a .bsp file. I've had a great time both learning about .lmp and .bsp files while constructing this program.
+I want to allow people to decompile maps for reverse engineering and learning purposes. This allowed me to further explore the structure and overall inner-workings of a .bsp file. I've had a great time both learning about .lmp and .bsp files while constructing this program.
 
 ### Misc.
 
 Note: If there are any bugs/issue please let me know.
 Only GMOD and HL2 maps have been tested. A warning will be given if using a BSP version other than 20.
+
+## (10/6/23) MAJOR UPDATE HAS BEEN RELEASED! INCLUDES GUI.
 
 
 
