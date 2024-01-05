@@ -31,8 +31,8 @@ Only GMOD and HL2 maps have been tested. A warning will be given if using a BSP 
 
 
 ### Build History
-v1.00 - January 11th 2023 - Initial Release
-v1.01 - January 17th 2023 - Small Bug Fixes
+#### v1.00 - January 11th 2023 - Initial Release
+#### v1.01 - January 17th 2023 - Small Bug Fixes
 v1.05 - January 19th 2023 - Improvements & Bug Fixes
 v2.00 - October 6th 2023 - Major Improvements & GUI Release
 v2.01 - October 25th 2023 - Small Bug Fixes & Improvements
