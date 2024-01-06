@@ -1,7 +1,7 @@
 ## Lump Stich
 ### Description
 
-In the Garry's Mod Workshop, maps are often given anti-decompile protection to prevent players from decompiling, studying and sometimes even playing those maps. This program aims to remove such protection and restore a map to it's original state!
+In the Garry's Mod Workshop, maps are often given anti-decompile protection to prevent players from decompiling, studying and sometimes even playing those maps. This program aims to remove such lump protection and restore a map to it's original state!
 
 ### How is this done?
 
