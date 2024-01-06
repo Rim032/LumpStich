@@ -38,5 +38,5 @@ v1.01 - January 17th 2023 - Small Bug Fixes
 v1.05 - January 19th 2023 - Improvements & Bug Fixes
 v2.00 - October 6th 2023 - Major Improvements & GUI Release
 v2.01 - October 25th 2023 - Small Bug Fixes & Improvements
-v.202 - January 6th 2023 - Small Visual Changes
+v2.02 - January 6th 2023 - Small Visual Changes
 ```
