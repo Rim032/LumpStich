@@ -14,7 +14,7 @@ namespace LumpStich
     {
         public form2_main_window()
         {
-            const float version = 2.01f;
+            const float version = 2.02f;
 
             InitializeComponent();
             form2_version.Text += version.ToString();
