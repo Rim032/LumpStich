@@ -9,7 +9,7 @@ A protected .bsp file and it's acompanying .lmp file (a file containing a portio
 
 ### Reason
 
-I want to allow people to decompile maps for reverse engineering and learning purposes. This allowed me to further explore the structure and overall inner-workings of a .bsp file. I've had a great time both learning about .lmp and .bsp files while constructing this program.
+I want to allow people to decompile maps for reverse engineering and learning purposes. Also, this allowed me to further explore the structure and overall inner-workings of a .bsp file. I have had a great time learning about .lmp and .bsp files while constructing this program.
 
 ### Misc.
 
