@@ -9,11 +9,11 @@ A protected .bsp file and it's acompanying .lmp file (a file containing a portio
 
 ### Reason
 
-I want to allow people to decompile maps for reverse engineering and learning purposes. Also, this allowed me to further explore the structure and overall inner-workings of a .bsp file. I have had a great time learning about .lmp and .bsp files while constructing this program.
+I want to allow people to decompile maps for reverse engineering and learning purposes. Also, this allowed me to further explore the structure and overall inner-workings of .bsp and .lmp files.
 
 ### Misc.
 
-Note: If there are any bugs/issue please let me know.
+Note: If there are any bugs/issues, please let me know.
 Only GMOD and HL2 maps have been tested. A warning will be given if using a BSP version other than 20.
 This program works best against i-am-scott's [BSPLumpManager](https://github.com/i-am-scott/BSPLumpManager).
 
